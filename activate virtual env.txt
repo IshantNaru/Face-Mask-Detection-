@@ -1,0 +1,3 @@
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+
+.\face_mask\Scripts\activate.ps1

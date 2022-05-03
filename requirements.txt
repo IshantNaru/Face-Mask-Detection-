@@ -1,0 +1,10 @@
+tensorflow
+keras
+imutils
+numpy
+opencv-python
+matplotlib
+scipy
+pandas
+split-folders
+flask

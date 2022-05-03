@@ -8,9 +8,9 @@ Ever since the strike of COVID-19, face masks have become a crucial part of our 
 The model uses face-detection pretrained network on top of binary-classification trained weights to give the final output in the form of color coded bounding boxes and probability of a person wearing a mask on their face.
 <br/>
 1. Install the requirements 
-2. [Pretrained weights] (https://drive.google.com/file/d/1eshTeacC8W9KRcjMgGgM7fk2y3vha3_4/view?usp=sharing)
+2. Download [Pretrained weights] (https://drive.google.com/file/d/1eshTeacC8W9KRcjMgGgM7fk2y3vha3_4/view?usp=sharing)
 <br/>
-
+<br/>
 ## Testing the detection
 <br/>
 1. In the terminal run `python app.py` <br/>

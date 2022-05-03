@@ -11,5 +11,6 @@ The model uses face-detection pretrained network on top of binary-classification
 2. Download [Pretrained weights] (https://drive.google.com/file/d/1eshTeacC8W9KRcjMgGgM7fk2y3vha3_4/view?usp=sharing)
 <br/>
 ## Testing the detection
-1. In the terminal run 'python app.py'.
+<br/>
+1. In the terminal run 'python app.py'
 2. Open the URL provided by the flask api in the terminal in your web browser. 

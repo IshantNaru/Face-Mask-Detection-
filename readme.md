@@ -10,6 +10,7 @@ The model uses face-detection pretrained network on top of binary-classification
 1. Install the requirements 
 2. Download [Pretrained weights] (https://drive.google.com/file/d/1eshTeacC8W9KRcjMgGgM7fk2y3vha3_4/view?usp=sharing)
 <br/>
+
 ## Testing the detection
 <br/>
 1. In the terminal run `python app.py` <br/>

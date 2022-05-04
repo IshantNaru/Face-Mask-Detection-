@@ -13,7 +13,5 @@ The model uses face-detection pretrained network on top of binary-classification
 
 ## Testing the detection
 <br/>
-1. In the terminal run ```
-2. python app.py
-3. ``` 
-4. Open the URL provided by the flask api in the terminal in your web browser. 
+1. In the terminal run `python app.py` 
+2. Open the URL provided by the flask api in the terminal in your web browser. 
